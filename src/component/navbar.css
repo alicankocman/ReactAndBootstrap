@@ -1,0 +1,33 @@
+.nav-link{
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+    margin-right: 1em;
+    transition: color 0.3s;
+}
+.navbar-brand{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin-right: 1em;
+    transition: color 0.3s;
+}
+.navbar{
+    position: relative;
+    bottom: 140px;
+    right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 2em;
+    background-color: #1a1a1a;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    color: white;
+}
+
+body{
+    background-color: #242424;
+ 
+}

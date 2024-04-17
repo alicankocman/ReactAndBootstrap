@@ -1,0 +1,28 @@
+*{
+    background-color: #242424;
+}
+.button{
+    position: relative;
+    top: 60px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.button1{
+    position: relative;
+    top: 60px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.button2{
+    position: relative;
+    top: 60px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+  
+.slider-container h3{
+display: flex;
+justify-content: center;
+height: 300px;
+width: 100%;
+}
